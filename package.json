@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Antoha2012pro/hw-data-and-time/issues"
   },
-  "homepage": "https://github.com/Antoha2012pro/hw-data-and-time#readme"
+  "homepage": "https://github.com/Antoha2012pro/hw-data-and-time#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
 }
